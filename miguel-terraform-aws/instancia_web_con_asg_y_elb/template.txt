@@ -1,0 +1,8 @@
+Estas son las variablas para ${project_name}
+
+Hola Mundo esto es una prueba
+
+variable 1: valor1
+variable 2: valor2
+variable 3: valor3
+tets variable value: ${test_var}
